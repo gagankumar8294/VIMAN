@@ -15,6 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1>Hello Vimaan deployed on 05-january-2023</h1>
+      <h2>Looking to ShowUp Again</h2
     </>
   )
 }
